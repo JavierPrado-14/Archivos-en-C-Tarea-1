@@ -1,0 +1,6 @@
+Nombres: Javier
+Apellidos: Prado
+Direccion: Km 35.5 carretera 
+Telefono: 33780599
+Codigo: 503
+go: 78
